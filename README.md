@@ -12,7 +12,8 @@ virtualenv virtualenv_name
 pip install pandas
 pip install sqlalchemy
 pip install requests
-pip install 
+pip install os
+pip install datetime
  
 4- Configure Postgresql db inside postgresql_settings.py
 
