@@ -15,7 +15,7 @@ pip install requests
 pip install os
 pip install datetime
  
-4- Configure Postgresql db inside postgresql_settings.py
+4- Configure Postgresql db inside postgresql_setting.py
 
 5 – Inside the project folder and with the virtual environment activated, execute the following .py:
 download_data.py
