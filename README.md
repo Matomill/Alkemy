@@ -5,7 +5,7 @@ Deploy instructions
 1- Create the virtual environment inside the project folder:
 virtualenv virtualenv_name
  
-2-  Activate the virtual env.
+2-  Activate the virtual env:
 .\virtualenv_name\Scripts\activate
  
 3- Install libraries to be used
