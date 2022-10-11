@@ -32,8 +32,6 @@ def get_session():
 
 session = get_session()
 
-#get_engine(user_name, passwd_fill, host_number, port_number, db_name)
-
 df_unique.to_sql('unified_table', con=engine, if_exists='replace')
 df_total_prov_cat.to_sql('category_table', con=engine, if_exists='replace')
 teatros_norm.to_sql('teatro_table', con=engine, if_exists='replace')
