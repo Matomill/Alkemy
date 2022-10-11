@@ -1,6 +1,6 @@
 Challange Data Analytics – Python
 
-eploy instructions
+Deploy instructions
 
 1- Create the virtual environment inside the project folder:
 virtualenv virtualenv_name
