@@ -1,6 +1,6 @@
-Challange Data Analytics – Python
+##Challange Data Analytics – Python
 
-Deploy instructions
+###Deploy instructions
 
 1- Create the virtual environment inside the project folder:
  virtualenv virtualenv_name
